@@ -1,4 +1,5 @@
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+Set-Location -Path $PSScriptRoot
 Clear-Host
 
 Write-Host @"
