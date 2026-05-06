@@ -1,3 +1,5 @@
+![WMT Image](WMT.png)
+
 # WMT — Windows Maintenance Tool
 
 A simple PowerShell tool for basic Windows maintenance and cleanup, focused on keeping the system clean, organized, and performing better in daily use.
